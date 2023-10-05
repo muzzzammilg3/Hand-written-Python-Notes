@@ -1,4 +1,6 @@
 Handwritten Python Notes with Projects for Practice
+
+
 Introduction
 Welcome to the "Handwritten Python Notes with Projects for Practice" repository! This project aims to provide a valuable resource for Python enthusiasts who are looking to deepen their understanding of Python programming concepts and gain hands-on experience through practical projects.
 
