@@ -37,7 +37,7 @@ Before running this repository, please make sure to update the `index.html` file
 
 Follow these steps to update the IP address:
 
-1. Open the `index.html` file in a text editor of your choice.
+1. Open the `index.html` file in a text editor of your choice once you clone the Repo.
 
 2. Locate the following JavaScript code block within the <script> tag:
 
